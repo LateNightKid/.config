@@ -8,12 +8,12 @@ local M = {
 
       configs.setup({
           ensure_installed = {
-                "c", "lua", "python",
-                "java", "vim", "vimdoc", "query",
+                "c", "lua", "python", "java",
+                 "vim", "vimdoc", "query",
                 "elixir", "heex", "javascript", "html" },
           sync_install = false,
           highlight = { enable = true },
-          indent = { enable = true },  
+          indent = { enable = false },  
         })
     end
 }
