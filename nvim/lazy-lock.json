@@ -17,6 +17,7 @@
   "nvim-jdtls": { "branch": "master", "commit": "99e4b2081de1d9162666cc7b563cbeb01c26b66b" },
   "nvim-lspconfig": { "branch": "master", "commit": "0ef64599b8aa0187ee5f6d92cb39c951f348f041" },
   "nvim-treesitter": { "branch": "master", "commit": "5b8b126de02ebfd92e46ed5986b3e58e870b85de" },
+  "oil.nvim": { "branch": "master", "commit": "1fe476daf0b3c108cb8ee1fc1226cc282fa2c9c1" },
   "plenary.nvim": { "branch": "master", "commit": "ec289423a1693aeae6cd0d503bac2856af74edaa" },
   "telescope-ui-select.nvim": { "branch": "master", "commit": "6e51d7da30bd139a6950adf2a47fda6df9fa06d2" },
   "telescope.nvim": { "branch": "0.1.x", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
