@@ -4,7 +4,7 @@ return {
     local lspconfig = require("lspconfig")
     lspconfig.lua_ls.setup({})
     lspconfig.pyright.setup({})
-    lspconfig.jdtls.setup({})
+    -- lspconfig.jdtls.setup({})
 
 
     local nmap = function(keys, func, desc)
