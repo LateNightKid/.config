@@ -20,7 +20,7 @@ return {
                 sapphire = "#00dfce",
                 blue = "#EAE4DD",
                 lavender = "#EAE4DD",
-                text = "#cccccc",
+                text = "#dddddd",
                 subtext1 = "#bbbbbb",
                 subtext0 = "#aaaaaa",
                 overlay2 = "#999999",
