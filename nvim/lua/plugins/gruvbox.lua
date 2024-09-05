@@ -24,7 +24,8 @@ return {
               contrast = "", -- can be "hard", "soft" or empty string
               palette_overrides = {
 
-                dark0 = "#1C1B18",
+                --dark0 = "#1C1B18",
+                dark0 = "#0C0C0C",
                 dark1 = "#25231F"
 
               },
