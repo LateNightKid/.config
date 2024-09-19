@@ -115,8 +115,8 @@ alias sshdigioceanblr2="ssh -p 6022 -i ~/.ssh/blr2_ed25519 $DIGIOCEANBLR2"
 alias sshmmathdigio="ssh $MMATHDIGIO -i ~/.ssh/mmath-digio"
 alias sshadminvpsby1="ssh -p 6022 -i ~/.ssh/adminvps-by-1 $ADMINVPSBY1"
 
-alias java="java -cp .:/usr/local/javalibs/stdlib.jar"
-alias javac="javac -cp .:/usr/local/javalibs/stdlib.jar"
+alias java="java -cp .:/usr/local/javalibs/stdlib.jar:/usr/local/javalibs/algs4.jar"
+alias javac="javac -cp .:/usr/local/javalibs/stdlib.jar:/usr/local/javalibs/algs4.jar"
 
 alias activate=". ./setenv.sh"
 
