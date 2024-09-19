@@ -66,6 +66,7 @@ config.settings = {
       project = {
         referencedLibraries = {
           '/usr/local/javalibs/stdlib.jar',
+          '/usr/local/javalibs/algs4.jar',
         },
       }
     }
