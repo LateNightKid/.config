@@ -113,6 +113,7 @@ alias sshvdsina-ams-2="ssh -p 6022 -i ~/.ssh/vdsina-ams-2 $VDSINAAMS2"
 alias sshdigioceanblr1="ssh -p 6022 $DIGIOCEANBLR1"
 alias sshdigioceanblr2="ssh -p 6022 -i ~/.ssh/blr2_ed25519 $DIGIOCEANBLR2"
 alias sshmmathdigio="ssh $MMATHDIGIO -i ~/.ssh/mmath-digio"
+alias sshmmathdigio2="ssh $MMATHDIGIO2 -i ~/.ssh/mmath-digio2"
 alias sshadminvpsby1="ssh -p 6022 -i ~/.ssh/adminvps-by-1 $ADMINVPSBY1"
 
 alias java="java -cp .:/usr/local/javalibs/stdlib.jar:/usr/local/javalibs/algs4.jar"
