@@ -1,0 +1,14 @@
+Color   Regular  Bright
+Black:  #0C0C0C  #767676
+Red:    #C4767C  #E797A0
+Green:  #A3FFCE  #B2E8C6
+Yellow: #C2B688  #F9F1A5
+Blue:   #989BD9  #B0B6FF
+Purple: #B986BF  #B57FAF
+Cyan:   #9BC1DE  #ABD6D6
+White:  #CCCCCC  #F2F2F2
+
+Foreground:      #DEDEDE
+Background:      #191919
+Cursor color:    #E6E6E6
+Selection color: #C9C9C9
